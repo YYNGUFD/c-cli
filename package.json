@@ -1,0 +1,22 @@
+{
+  "name": "c-cli",
+  "version": "1.0.0",
+  "description": "页面模版存储器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YYNGUFD/c-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "mfy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YYNGUFD/c-cli/issues"
+  },
+  "homepage": "https://github.com/YYNGUFD/c-cli#readme"
+}
